@@ -16,6 +16,8 @@ Features include Buying and selling of car by multiple customers and sellers alo
 Change the root and password in **Conn.java** Class with your own SQL root and password.
 Then Copy the Code from SQL_code file and run it 
 
+**The SQL_code is in the src folder**
+
 4) Download the Jar Files from the Jar Files folder.
    
 There are 2 jar files.
@@ -23,6 +25,8 @@ There are 2 jar files.
 The mail api and JCalendar. Download them and include them in Intelli J idea's depedencies
 
 # SCREENSHOTS
+
+**The Zip file for Screenshots is in the src folder**
 
 **Starting Page**
 
