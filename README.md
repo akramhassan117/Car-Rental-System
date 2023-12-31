@@ -1,6 +1,6 @@
 # Car-Rental-System
 Developing a Car Rental Management System using Java and concepts of Object Oriented Programming.
-Features include Buying and selling of car by multiple customers and sellers along with handling complains
+Features include Buying and selling of car by multiple customers and sellers along with handling complaints.
 
 # How to run this project
 1) Download and setup Intelli J idea on your workstation
