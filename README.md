@@ -1,6 +1,6 @@
 # Car-Rental-System
 Developing a Car Rental Management System using Java and concepts of Object Oriented Programming.
-Features include Buying and selling of car by multiple customers and sellers along with handling complaints.
+Features include Buying and selling of car by multiple customers and sellers along with handling complaints and Sending an Email of the Reciept.
 
 # How to run this project
 1) Download and setup Intelli J idea on your workstation
@@ -53,6 +53,13 @@ The mail api and JCalendar. Download them and include them in Intelli J idea's d
 
 
 ![ORDERS](https://github.com/akramhassan117/Car-Rental-System/assets/138471434/ba13ecce-0957-44a6-8d28-c56f7866d99f)
+
+
+**EMAIL OF ORDER**
+
+
+![image](https://github.com/akramhassan117/Car-Rental-System/assets/138471434/313252fa-c4e3-4d2d-a484-878dcfc0eeeb)
+
 
 
 
